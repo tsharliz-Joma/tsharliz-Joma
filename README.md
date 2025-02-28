@@ -8,7 +8,7 @@ Welcome to my little corner of GitHub! 🚀
 
 I'm a passionate developer based in **Sydney, Australia** 🇦🇺, always eager to explore new technologies and build cool stuff! I'm currently working at **Rocket Power Technology** (yes, it sounds as cool as it is! 🚀).
 
-*   🔭 I’m working on exciting projects in **JavaScript, Ruby, and Web Development**.
+*   🔭 I’m love working on meaningful projects using **React, Nodejs, and MongoDB and Firebase**.
     
 *   🌱 Currently learning **advanced frontend frameworks** and diving deeper into **backend development**.
     
